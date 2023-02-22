@@ -12,3 +12,6 @@ def notas(n):
     return "La nota introducida es erronea"
 
 print(notas(8))
+
+#Este es un repositorio de código que voy a usasr durante el curso.
+#Para aprender sobre las versiones
